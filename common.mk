@@ -278,10 +278,6 @@ PRODUCT_PACKAGES += \
     android.hardware.biometrics.fingerprint@2.1-service.samsung \
     libbauthtzcommon_shim
 
-# FlipFlap
-PRODUCT_PACKAGES += \
-    FlipFlap
-
 # Touch features
 PRODUCT_PACKAGES += \
     vendor.lineage.touch@1.0-service.samsung
@@ -289,10 +285,6 @@ PRODUCT_PACKAGES += \
 # Livedisplay
 PRODUCT_PACKAGES += \
     vendor.lineage.livedisplay@2.1-service.universal7880
-
-# Trust HAL
-PRODUCT_PACKAGES += \
-    vendor.lineage.trust@1.0-service
 
 # Sensors
 PRODUCT_PACKAGES += \

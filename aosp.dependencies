@@ -1,0 +1,42 @@
+[
+    {
+        "repository": "hardware_samsung",
+        "target_path": "hardware/samsung"
+    },
+    {
+        "remote": "github",
+        "repository": "LineageOS/android_hardware_samsung_nfc",
+        "target_path": "hardware/samsung/nfc",
+        "branch": "lineage-18.1"
+    },
+    {
+        "remote": "github",
+        "repository": "LineageOS/android_hardware_samsung_slsi_exynos",
+        "target_path": "hardware/samsung_slsi/exynos",
+        "branch": "lineage-18.1"
+    },
+    {
+        "remote": "github",
+        "repository": "LineageOS/android_hardware_samsung_slsi_exynos5",
+        "target_path": "hardware/samsung_slsi/exynos5",
+        "branch": "lineage-18.1"
+    },
+    {
+        "remote": "github",
+        "repository": "LineageOS/android_hardware_samsung_slsi_exynos7880",
+        "target_path": "hardware/samsung_slsi/exynos7880",
+        "branch": "lineage-18.1"
+    },
+    {
+        "remote": "github",
+        "repository": "LineageOS/android_hardware_samsung_slsi_openmax",
+        "target_path": "hardware/samsung_slsi/openmax",
+        "branch": "lineage-18.1"
+    },
+    {
+        "remote": "github",
+        "repository": "LineageOS/android_kernel_samsung_universal7880",
+        "target_path": "kernel/samsung/universal7880",
+        "branch": "lineage-18.1"
+    }
+]
