@@ -151,10 +151,6 @@ PRODUCT_PACKAGES += \
     libxml2 \
     libprotobuf-cpp-full
 
-# Doze
-PRODUCT_PACKAGES += \
-    SamsungDoze
-
 # Versioned netutils
 PRODUCT_PACKAGES += \
     netutils-wrapper-1.0
